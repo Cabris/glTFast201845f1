@@ -2,7 +2,7 @@
   "dependencies": {
     "com.atteneder.draco": "https://github.com/atteneder/DracoUnity.git#v1.1.0",
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v1.3.0",
-    "com.atteneder.ktx": "https://gitlab.com/Cabris/ktxunity.git#ktx-1_fix_plugins",
+    "com.atteneder.ktx": "https://github.com/Cabris/KtxUnity.git#ktx-1_fix_plugins",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
@@ -43,13 +43,17 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "com.atteneder.draco": {
-      "hash": "7c193ec470ac8075e4add1d085a8afca2178e2a1",
-      "revision": "v1.1.0"
-    },
     "com.atteneder.gltfast": {
       "hash": "bf0b1530ccec53f69d38d3b6d6746573cfe08175",
       "revision": "v1.3.0"
+    },
+    "com.atteneder.draco": {
+      "hash": "7b3fd73eba2aaf4e4c9ad33022e3a7c7acefb3ab",
+      "revision": "v1.1.0"
+    },
+    "com.atteneder.ktx": {
+      "hash": "0f809c9427c1b9f2a116b030d8ec5e3a219c1ebc",
+      "revision": "ktx-1_fix_plugins"
     }
   }
 }
