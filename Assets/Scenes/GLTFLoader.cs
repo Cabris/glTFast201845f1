@@ -47,7 +47,7 @@ public class GLTFLoader : MonoBehaviour
             if (succ)
             {
                 gltf.InstantiateGltf(_tm);
-                CheckShader(_tm);
+               // CheckShader(_tm);
             }
         };
         gltf.Load(_url);
